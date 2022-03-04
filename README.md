@@ -1,5 +1,15 @@
 # MathForm
 
+- The Application should provide two random numbers and wait for the user to answer its sum.
+
+- If the user is close then the application should highlight the answer field.
+
+- Finally an average of correct answers should be displayed on the screen.
+
+- The application uses custom validator for answer checking and custom directive class for answer highlighting.
+
+![ScreenShot](https://user-images.githubusercontent.com/27942487/156778179-702947e8-f876-453f-9c7e-69294472b31b.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
